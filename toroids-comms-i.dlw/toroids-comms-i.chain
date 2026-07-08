@@ -4,6 +4,6 @@ slug  : toroids-comms-i
 seal  : a0d94aa348132784c5fcbc3f9b9936dfb8689b9ccc864a01a202aba14694d257
 prev  : 1f1a4feb7128d2fe9e84554b55ec7a0904a1c6bdf95bb5f58b24e340aa0bd813
 link  : cfe30008b34731927ff27d9fcd860ff211f6e5e7f680c9b2e83d6fef8b9640ac
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
